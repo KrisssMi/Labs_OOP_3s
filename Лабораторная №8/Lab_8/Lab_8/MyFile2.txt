@@ -1,2 +1,0 @@
-This is text from the File2.txt 
-:)
