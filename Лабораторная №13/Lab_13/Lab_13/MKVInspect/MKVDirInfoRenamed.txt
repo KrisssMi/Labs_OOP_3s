@@ -1,0 +1,15 @@
+			| Директории |
+bin
+MKVInspect
+obj
+-------------------------------------------------------------------------
+			| Файлы |
+Lab_13.csproj
+Log.txt
+MKVDirInfo.cs
+MKVDiskInfo.cs
+MKVFileInfo.cs
+MKVFileManager.cs
+MKVFiles.zip
+MKVLog.cs
+Program.cs
