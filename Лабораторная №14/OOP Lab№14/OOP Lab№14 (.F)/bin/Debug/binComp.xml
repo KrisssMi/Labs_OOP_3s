@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Computer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <price>2100</price>
+  <Brand>Windows</Brand>
+  <Model>Aser</Model>
+</Computer>
